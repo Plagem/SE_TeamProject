@@ -32,3 +32,5 @@
 | **Member** | 자전거 렌탈 서비스에 가입한 일반 회원. 자전거 검색, 대여, 반납, 예약 등의 기능을 사용한다. |
 | **Administrator** | 자전거 렌탈 서비스 운영 담당자. 대여소, 자전거를 관리하며 회원보다 높은 권한을 가진다. |
 | **E-mail System** | 자전거 렌트, 예약대기, 반납 시 이메일을 사용자에게 전송하는 외부 시스템. |
+
+![Image](https://github.com/user-attachments/assets/f7972d36-1dfb-4a49-a941-cdec6522606f)
