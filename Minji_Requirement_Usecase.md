@@ -38,3 +38,6 @@
 | **이메일(외부 서비스)** | 외부 연동 시스템으로, 자전거 반납 후 식대기 예약한 회원이 있는 경우 예약 완료 알림 기능을 수행한다. |
 | **식당 예약 서비스(외부 서비스)** | 외부 연동 시스템으로, 자전거 반납 후 식당 추천과 예약 기능을 수행한다. |
 
+
+## Usecase Diagram
+![usecase diagram](https://github.com/user-attachments/assets/a6bc9bd5-b42c-496d-8916-d126f46d1809)
