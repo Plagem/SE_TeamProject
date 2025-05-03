@@ -22,3 +22,13 @@
 | 18 | 회원은 자신의 예약대기 조회,취소 를 할 수 있어야 한다. | View Rent Reservation |
 | 19 | 회원은 자신의 예약대기 취소를 할 수 있어야 한다. | Cancel Rent Reservation |
 | 20 | 자전거 반납 직후, 회원은 위치 기반 외부 식당 예약 서비스 연계 를 선택할 수 있어야 한다. | Book Restaurant |
+
+
+
+## Actor - Description 매핑표
+
+| Actor | Description |
+|-------|-------------|
+| **User** | Member 및 Administrator의 상위 액터. 로그인/로그아웃 등 공통 기능을 갖는 모든 이용자. |
+| **Member** | 자전거 렌탈 서비스에 가입한 일반 회원. 자전거 검색, 대여, 반납, 예약 등의 기능을 사용한다. |
+| **Administrator** | 자전거 렌탈 서비스 운영 담당자. 대여소, 자전거를 관리하며 회원보다 높은 권한을 가진다. |
