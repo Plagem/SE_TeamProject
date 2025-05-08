@@ -1,0 +1,27 @@
+[Kim Dasan] Thu May 8 13:36:44 2025 +0900 Update 22_requirement_list.docx 2592ef2
+[Kim Dasan] Thu May 8 13:28:00 2025 +0900 Update 22_usecase_description.docx 4bc5592
+[Kim Dasan] Thu May 8 13:09:47 2025 +0900 Update Usecase 6d046de
+[Kim Dasan] Thu May 8 13:07:45 2025 +0900 Update bicycle_usecase.uml 4839c49
+[mmingyeomm] Thu May 8 12:41:37 2025 +0900 Create usecase_description.md e2731f0
+[mmingyeomm] Thu May 8 12:25:57 2025 +0900 Create use_case.md 0c78100
+[Minji] Thu May 8 11:51:48 2025 +0900 Update 22_requirement_list.docx 2c836de
+[Minji] Thu May 8 11:45:37 2025 +0900 Delete ~$_requirement_list.docx 1dbace2
+[Minji] Thu May 8 11:35:44 2025 +0900 add: usecase_description docx file 3a9a37a
+[Minji] Thu May 8 11:07:20 2025 +0900 add: requirement_list docx file a11c704
+[Kim Dasan] Wed May 7 16:45:31 2025 +0900 feat : usecase uml 및 이미지 추가 7aa8862
+[Minji] Sat May 3 22:27:25 2025 +0900 add: Minji_Usecase_Diagram.md bf76bb7
+[hininji] Sat May 3 22:13:05 2025 +0900 mod: Minji_Requirement_Usecase 16b4481
+[hininji] Sat May 3 21:51:35 2025 +0900 edit: Minji_R_U 29b6ced
+[mmingyeomm] Sat May 3 21:13:15 2025 +0900 Update Mingyeom_Requirement_Usecase.md e9aa306
+[mmingyeomm] Sat May 3 21:10:08 2025 +0900 Create Mingyeom_Requirement_Usecase.md 6cb2a68
+[Kim Dasan] Sat May 3 21:00:33 2025 +0900 Update Dasan_Requirement_Usecase.md 240d83d
+[Kim Dasan] Sat May 3 20:57:12 2025 +0900 Update Dasan_Requirement_Usecase.md d1ef26e
+[hininji] Sat May 3 20:45:39 2025 +0900 docs: edit user's description eaffa98
+[Kim Dasan] Sat May 3 20:43:50 2025 +0900 Update Dasan_Requirement_Usecase.md 43492af
+[hininji] Sat May 3 19:36:15 2025 +0900 docs: Requirement_Usecase 6a378fd
+[권민지] Sat May 3 15:49:45 2025 +0900 docs: Reauirement_Usecase d4e0cd4
+[Kim Dasan] Sat May 3 13:31:23 2025 +0900 Update Requirement-Usecase febfa3c
+[Kim Dasan] Sat May 3 13:03:26 2025 +0900 Add Actor-Description c96bce4
+[Kim Dasan] Sat May 3 12:51:50 2025 +0900 Create Dasan_Requirement_Usecase.md 1888d4a
+[Kim Dasan] Thu May 1 13:17:21 2025 +0900 feat : 프로젝트 생성 d93fc9c
+[Kim Dasan] Thu May 1 13:10:02 2025 +0900 Initial commit 73e25d5
