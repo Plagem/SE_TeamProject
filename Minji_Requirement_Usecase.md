@@ -40,4 +40,5 @@
 
 
 ## Usecase Diagram
-![usecase diagram](https://github.com/user-attachments/assets/a6bc9bd5-b42c-496d-8916-d126f46d1809)
+![usecase_diagram](https://github.com/user-attachments/assets/4aa35e45-b56f-4aea-bd38-9264427e489f)
+
